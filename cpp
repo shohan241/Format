@@ -3,8 +3,6 @@ using namespace std;
 #define ll long long
 #define endl '\n'
 #define ckk cout << "OK TILL HERE" << endl;
-const ll maxn = 2e6 + 7;
-const ll inf = 1e18;
 
 //---------- Struggle starts from here ----------//
 
